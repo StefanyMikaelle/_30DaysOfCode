@@ -10,7 +10,7 @@
 ## Project description
 
 <p align="justify">
-  Solving HackerRank Challenges
+  Solving HackerRank Challenges in Kotlin
 </p>
 
 
